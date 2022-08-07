@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/muhammadyunusuz/telegram-client/issues"
   },
-  "homepage": "https://github.com/muhammadyunusuz/telegram-client#readme"
+  "homepage": "https://github.com/muhammadyunusuz/telegram-client#readme",
+  "devDependencies": {
+    "telegram": "^2.10.7"
+  }
 }
